@@ -6,6 +6,13 @@
     "symbol": "PERP",
     "decimals": 18
   },
+  "0x58959E0C71080434f237bD42d07Cd84B74CeF438": {
+    "name": "Tesra AI Supernet",
+    "logo": "tesra_32.png",
+    "erc20": true,
+    "symbol": "TSR",
+    "decimals": 5
+  },
   "0xeca82185adCE47f39c684352B0439f030f860318":{
     "name": "Perlin",
     "logo": "PERL.svg",
